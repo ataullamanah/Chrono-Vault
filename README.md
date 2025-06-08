@@ -37,6 +37,4 @@ Contributions are welcome! Fork the repository, submit issues, or create pull re
 MIT License - feel free to use and modify this code for your own projects.
 
 ## Contact
-Reach out via GitHub Issues or [your contact info] for questions or collaboration.
-
-*Built with passion by [Your Name]. Support this project via [GitHub Sponsors](#)!*
+*Built with passion by [ataullamanah]. Support this project via [GitHub Sponsors](ataullamanah)!*
